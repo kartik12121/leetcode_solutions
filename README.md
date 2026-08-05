@@ -91,6 +91,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/kartik12121/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/kartik12121/leetcode_solutions/tree/master/0342-power-of-four) |
 ## Binary Search
@@ -100,6 +101,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/kartik12121/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/kartik12121/leetcode_solutions/tree/master/0342-power-of-four) |
 ## Stack
@@ -145,5 +147,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/kartik12121/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/kartik12121/leetcode_solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
