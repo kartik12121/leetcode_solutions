@@ -107,4 +107,8 @@
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/kartik12121/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/kartik12121/leetcode_solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
