@@ -92,6 +92,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/kartik12121/leetcode_solutions/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/kartik12121/leetcode_solutions/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
@@ -140,4 +142,8 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/kartik12121/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kartik12121/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/kartik12121/leetcode_solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
