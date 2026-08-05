@@ -11,6 +11,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kartik12121/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/kartik12121/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/kartik12121/leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kartik12121/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -102,6 +103,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kartik12121/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/kartik12121/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -111,4 +113,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/kartik12121/leetcode_solutions/tree/master/1291-sequential-digits) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kartik12121/leetcode_solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
