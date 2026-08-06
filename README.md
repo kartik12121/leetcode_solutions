@@ -25,6 +25,7 @@
 | [0242-valid-anagram](https://github.com/kartik12121/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/kartik12121/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/kartik12121/leetcode_solutions/tree/master/0561-array-partition) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kartik12121/leetcode_solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Array
 |  |
@@ -33,6 +34,7 @@
 | [0268-missing-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kartik12121/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/kartik12121/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/kartik12121/leetcode_solutions/tree/master/0561-array-partition) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kartik12121/leetcode_solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kartik12121/leetcode_solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Two Pointers
@@ -56,6 +58,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/kartik12121/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/kartik12121/leetcode_solutions/tree/master/0561-array-partition) |
 ## Union-Find
 |  |
 | ------- |
@@ -151,4 +154,8 @@
 | ------- |
 | [0231-power-of-two](https://github.com/kartik12121/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/kartik12121/leetcode_solutions/tree/master/0342-power-of-four) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/kartik12121/leetcode_solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
