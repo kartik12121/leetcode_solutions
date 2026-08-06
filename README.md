@@ -7,6 +7,7 @@
 | [0169-majority-element](https://github.com/kartik12121/leetcode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kartik12121/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartik12121/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kartik12121/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
@@ -26,6 +27,7 @@
 | [0268-missing-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/kartik12121/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/kartik12121/leetcode_solutions/tree/master/0561-array-partition) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartik12121/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kartik12121/leetcode_solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Array
 |  |
@@ -35,6 +37,7 @@
 | [0283-move-zeroes](https://github.com/kartik12121/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/kartik12121/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/kartik12121/leetcode_solutions/tree/master/0561-array-partition) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartik12121/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kartik12121/leetcode_solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kartik12121/leetcode_solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Two Pointers
@@ -158,4 +161,5 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/kartik12121/leetcode_solutions/tree/master/0561-array-partition) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartik12121/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
