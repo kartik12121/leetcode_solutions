@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kartik12121/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/kartik12121/leetcode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kartik12121/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0268-missing-number) |
@@ -12,6 +13,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kartik12121/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/kartik12121/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/kartik12121/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/kartik12121/leetcode_solutions/tree/master/0541-reverse-string-ii) |
@@ -100,6 +102,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kartik12121/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/kartik12121/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/kartik12121/leetcode_solutions/tree/master/0342-power-of-four) |
