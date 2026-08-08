@@ -8,6 +8,7 @@
 | [0169-majority-element](https://github.com/kartik12121/leetcode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kartik12121/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/kartik12121/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartik12121/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kartik12121/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
@@ -16,6 +17,7 @@
 | [0013-roman-to-integer](https://github.com/kartik12121/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/kartik12121/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/kartik12121/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/kartik12121/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/kartik12121/leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kartik12121/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/kartik12121/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
@@ -29,6 +31,7 @@
 | [0169-majority-element](https://github.com/kartik12121/leetcode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kartik12121/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/kartik12121/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/kartik12121/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/kartik12121/leetcode_solutions/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartik12121/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -120,6 +123,7 @@
 | [0231-power-of-two](https://github.com/kartik12121/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/kartik12121/leetcode_solutions/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/kartik12121/leetcode_solutions/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
 | ------- |
