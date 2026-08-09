@@ -40,6 +40,7 @@
 | [0561-array-partition](https://github.com/kartik12121/leetcode_solutions/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartik12121/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kartik12121/leetcode_solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/kartik12121/leetcode_solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Array
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartik12121/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kartik12121/leetcode_solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kartik12121/leetcode_solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/kartik12121/leetcode_solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/kartik12121/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/kartik12121/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/kartik12121/leetcode_solutions/tree/master/0696-count-binary-substrings) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/kartik12121/leetcode_solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Sliding Window
 |  |
 | ------- |
