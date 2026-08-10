@@ -9,6 +9,7 @@
 | [0242-valid-anagram](https://github.com/kartik12121/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kartik12121/leetcode_solutions/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartik12121/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartik12121/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kartik12121/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
@@ -49,6 +50,7 @@
 | [0268-missing-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kartik12121/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartik12121/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/kartik12121/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/kartik12121/leetcode_solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/kartik12121/leetcode_solutions/tree/master/0561-array-partition) |
