@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kartik12121/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kartik12121/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kartik12121/leetcode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kartik12121/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0268-missing-number) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kartik12121/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kartik12121/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/kartik12121/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/kartik12121/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/kartik12121/leetcode_solutions/tree/master/0541-reverse-string-ii) |
@@ -204,4 +206,5 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kartik12121/leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kartik12121/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
