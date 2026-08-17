@@ -183,6 +183,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kartik12121/leetcode_solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kartik12121/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kartik12121/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/kartik12121/leetcode_solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -190,6 +191,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kartik12121/leetcode_solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kartik12121/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kartik12121/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/kartik12121/leetcode_solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -197,6 +199,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kartik12121/leetcode_solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kartik12121/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kartik12121/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Recursion
@@ -233,4 +236,8 @@
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kartik12121/leetcode_solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
