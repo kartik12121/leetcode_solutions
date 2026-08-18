@@ -40,6 +40,7 @@
 | [0680-valid-palindrome-ii](https://github.com/kartik12121/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/kartik12121/leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/kartik12121/leetcode_solutions/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/kartik12121/leetcode_solutions/tree/master/0796-rotate-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kartik12121/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/kartik12121/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/kartik12121/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -300,6 +301,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartik12121/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/kartik12121/leetcode_solutions/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
