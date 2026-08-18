@@ -55,6 +55,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kartik12121/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kartik12121/leetcode_solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/kartik12121/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/kartik12121/leetcode_solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kartik12121/leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -261,4 +262,5 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/kartik12121/leetcode_solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/kartik12121/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
