@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kartik12121/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/kartik12121/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/kartik12121/leetcode_solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kartik12121/leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -256,4 +257,8 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/kartik12121/leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/kartik12121/leetcode_solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
