@@ -16,6 +16,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kartik12121/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartik12121/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kartik12121/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/kartik12121/leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## String
 |  |
@@ -67,6 +68,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kartik12121/leetcode_solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartik12121/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/kartik12121/leetcode_solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/kartik12121/leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kartik12121/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
