@@ -11,6 +11,7 @@
 | [0242-valid-anagram](https://github.com/kartik12121/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/kartik12121/leetcode_solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/kartik12121/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kartik12121/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartik12121/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartik12121/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -30,6 +31,7 @@
 | [0205-isomorphic-strings](https://github.com/kartik12121/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kartik12121/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/kartik12121/leetcode_solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/kartik12121/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kartik12121/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/kartik12121/leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kartik12121/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -107,6 +109,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/kartik12121/leetcode_solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/kartik12121/leetcode_solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/kartik12121/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kartik12121/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Greedy
 |  |
@@ -304,4 +307,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartik12121/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kartik12121/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
