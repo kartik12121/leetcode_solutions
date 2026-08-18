@@ -64,6 +64,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartik12121/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/kartik12121/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/kartik12121/leetcode_solutions/tree/master/0463-island-perimeter) |
+| [0495-teemo-attacking](https://github.com/kartik12121/leetcode_solutions/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/kartik12121/leetcode_solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/kartik12121/leetcode_solutions/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/kartik12121/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -175,6 +176,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/kartik12121/leetcode_solutions/tree/master/0495-teemo-attacking) |
 | [2390-removing-stars-from-a-string](https://github.com/kartik12121/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Enumeration
