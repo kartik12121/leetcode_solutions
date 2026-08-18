@@ -25,6 +25,7 @@
 | [0020-valid-parentheses](https://github.com/kartik12121/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartik12121/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/kartik12121/leetcode_solutions/tree/master/0058-length-of-last-word) |
+| [0171-excel-sheet-column-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/kartik12121/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/kartik12121/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/kartik12121/leetcode_solutions/tree/master/0389-find-the-difference) |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kartik12121/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0171-excel-sheet-column-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/kartik12121/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/kartik12121/leetcode_solutions/tree/master/0342-power-of-four) |
