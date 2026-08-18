@@ -33,6 +33,7 @@
 | [0383-ransom-note](https://github.com/kartik12121/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartik12121/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kartik12121/leetcode_solutions/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/kartik12121/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/kartik12121/leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kartik12121/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/kartik12121/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
@@ -158,6 +159,7 @@
 | [0231-power-of-two](https://github.com/kartik12121/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/kartik12121/leetcode_solutions/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/kartik12121/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kartik12121/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/kartik12121/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -186,6 +188,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/kartik12121/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/kartik12121/leetcode_solutions/tree/master/0495-teemo-attacking) |
 | [2390-removing-stars-from-a-string](https://github.com/kartik12121/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
