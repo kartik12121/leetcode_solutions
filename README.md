@@ -15,6 +15,7 @@
 | [0389-find-the-difference](https://github.com/kartik12121/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartik12121/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/kartik12121/leetcode_solutions/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/kartik12121/leetcode_solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/kartik12121/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/kartik12121/leetcode_solutions/tree/master/0804-unique-morse-code-words) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartik12121/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -44,6 +45,7 @@
 | [0541-reverse-string-ii](https://github.com/kartik12121/leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/kartik12121/leetcode_solutions/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kartik12121/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/kartik12121/leetcode_solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/kartik12121/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/kartik12121/leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/kartik12121/leetcode_solutions/tree/master/0771-jewels-and-stones) |
@@ -89,6 +91,7 @@
 | [0500-keyboard-row](https://github.com/kartik12121/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/kartik12121/leetcode_solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/kartik12121/leetcode_solutions/tree/master/0561-array-partition) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/kartik12121/leetcode_solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/kartik12121/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0804-unique-morse-code-words](https://github.com/kartik12121/leetcode_solutions/tree/master/0804-unique-morse-code-words) |
 | [0942-di-string-match](https://github.com/kartik12121/leetcode_solutions/tree/master/0942-di-string-match) |
