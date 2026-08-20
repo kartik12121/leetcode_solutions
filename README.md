@@ -55,6 +55,7 @@
 | [0917-reverse-only-letters](https://github.com/kartik12121/leetcode_solutions/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/kartik12121/leetcode_solutions/tree/master/0942-di-string-match) |
 | [1002-find-common-characters](https://github.com/kartik12121/leetcode_solutions/tree/master/1002-find-common-characters) |
+| [1021-remove-outermost-parentheses](https://github.com/kartik12121/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kartik12121/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/kartik12121/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/kartik12121/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -210,6 +211,7 @@
 | [0234-palindrome-linked-list](https://github.com/kartik12121/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/kartik12121/leetcode_solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/kartik12121/leetcode_solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/kartik12121/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/kartik12121/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -228,6 +230,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartik12121/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/kartik12121/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
