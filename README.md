@@ -136,6 +136,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kartik12121/leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kartik12121/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/kartik12121/leetcode_solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -225,6 +226,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kartik12121/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/kartik12121/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
