@@ -117,6 +117,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartik12121/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kartik12121/leetcode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/kartik12121/leetcode_solutions/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/kartik12121/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/kartik12121/leetcode_solutions/tree/master/1528-shuffle-string) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kartik12121/leetcode_solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kartik12121/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -361,6 +362,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kartik12121/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
+| [1480-running-sum-of-1d-array](https://github.com/kartik12121/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
 | ------- |
