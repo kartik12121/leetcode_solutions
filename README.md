@@ -134,6 +134,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartik12121/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/kartik12121/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kartik12121/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/kartik12121/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartik12121/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3151-special-array-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3151-special-array-i) |
@@ -270,6 +271,7 @@
 | [0495-teemo-attacking](https://github.com/kartik12121/leetcode_solutions/tree/master/0495-teemo-attacking) |
 | [1920-build-array-from-permutation](https://github.com/kartik12121/leetcode_solutions/tree/master/1920-build-array-from-permutation) |
 | [2390-removing-stars-from-a-string](https://github.com/kartik12121/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/kartik12121/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/kartik12121/leetcode_solutions/tree/master/3925-concatenate-array-with-reverse) |
