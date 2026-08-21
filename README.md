@@ -88,6 +88,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartik12121/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kartik12121/leetcode_solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/kartik12121/leetcode_solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3467-transform-array-by-parity](https://github.com/kartik12121/leetcode_solutions/tree/master/3467-transform-array-by-parity) |
 ## Array
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3151-special-array-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3151-special-array-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/kartik12121/leetcode_solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3467-transform-array-by-parity](https://github.com/kartik12121/leetcode_solutions/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kartik12121/leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kartik12121/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -164,6 +166,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/kartik12121/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/kartik12121/leetcode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kartik12121/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3467-transform-array-by-parity](https://github.com/kartik12121/leetcode_solutions/tree/master/3467-transform-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
