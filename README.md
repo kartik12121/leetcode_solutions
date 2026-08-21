@@ -120,6 +120,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/kartik12121/leetcode_solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kartik12121/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kartik12121/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/kartik12121/leetcode_solutions/tree/master/1720-decode-xored-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kartik12121/leetcode_solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartik12121/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -226,6 +227,7 @@
 | [0342-power-of-four](https://github.com/kartik12121/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/kartik12121/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kartik12121/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/kartik12121/leetcode_solutions/tree/master/1720-decode-xored-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kartik12121/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Stack
 |  |
