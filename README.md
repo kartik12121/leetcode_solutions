@@ -74,6 +74,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/kartik12121/leetcode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/kartik12121/leetcode_solutions/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/kartik12121/leetcode_solutions/tree/master/1773-count-items-matching-a-rule) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/kartik12121/leetcode_solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kartik12121/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/kartik12121/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/kartik12121/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -238,6 +239,7 @@
 | [0342-power-of-four](https://github.com/kartik12121/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/kartik12121/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kartik12121/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/kartik12121/leetcode_solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/kartik12121/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartik12121/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
