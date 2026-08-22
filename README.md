@@ -65,6 +65,7 @@
 | [1108-defanging-an-ip-address](https://github.com/kartik12121/leetcode_solutions/tree/master/1108-defanging-an-ip-address) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kartik12121/leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kartik12121/leetcode_solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/kartik12121/leetcode_solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1528-shuffle-string](https://github.com/kartik12121/leetcode_solutions/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartik12121/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/kartik12121/leetcode_solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
