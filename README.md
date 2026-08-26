@@ -28,6 +28,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kartik12121/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/kartik12121/leetcode_solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/kartik12121/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/kartik12121/leetcode_solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartik12121/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kartik12121/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kartik12121/leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -158,6 +159,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/kartik12121/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kartik12121/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kartik12121/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/kartik12121/leetcode_solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartik12121/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3151-special-array-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3151-special-array-i) |
@@ -193,6 +195,7 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/kartik12121/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kartik12121/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/kartik12121/leetcode_solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartik12121/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kartik12121/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
@@ -279,6 +282,7 @@
 | [0389-find-the-difference](https://github.com/kartik12121/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kartik12121/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/kartik12121/leetcode_solutions/tree/master/1720-decode-xored-array) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/kartik12121/leetcode_solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kartik12121/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Stack
 |  |
@@ -455,4 +459,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartik12121/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Trie
+|  |
+| ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/kartik12121/leetcode_solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
