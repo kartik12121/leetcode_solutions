@@ -148,6 +148,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/kartik12121/leetcode_solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kartik12121/leetcode_solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kartik12121/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/kartik12121/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kartik12121/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/kartik12121/leetcode_solutions/tree/master/1720-decode-xored-array) |
 | [1773-count-items-matching-a-rule](https://github.com/kartik12121/leetcode_solutions/tree/master/1773-count-items-matching-a-rule) |
@@ -430,6 +431,7 @@
 | ------- |
 | [0463-island-perimeter](https://github.com/kartik12121/leetcode_solutions/tree/master/0463-island-perimeter) |
 | [0867-transpose-matrix](https://github.com/kartik12121/leetcode_solutions/tree/master/0867-transpose-matrix) |
+| [1672-richest-customer-wealth](https://github.com/kartik12121/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 ## String Matching
 |  |
 | ------- |
