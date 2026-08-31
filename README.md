@@ -268,6 +268,7 @@
 | [1812-determine-color-of-a-chessboard-square](https://github.com/kartik12121/leetcode_solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/kartik12121/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartik12121/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2769-find-the-maximum-achievable-number](https://github.com/kartik12121/leetcode_solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kartik12121/leetcode_solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
