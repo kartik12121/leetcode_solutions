@@ -115,6 +115,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kartik12121/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kartik12121/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/kartik12121/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kartik12121/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/kartik12121/leetcode_solutions/tree/master/0169-majority-element) |
@@ -249,6 +250,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kartik12121/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/kartik12121/leetcode_solutions/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -336,6 +338,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/kartik12121/leetcode_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kartik12121/leetcode_solutions/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kartik12121/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/kartik12121/leetcode_solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kartik12121/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kartik12121/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -360,6 +363,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/kartik12121/leetcode_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kartik12121/leetcode_solutions/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kartik12121/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/kartik12121/leetcode_solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kartik12121/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kartik12121/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -410,6 +414,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kartik12121/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kartik12121/leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
