@@ -276,6 +276,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/kartik12121/leetcode_solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kartik12121/leetcode_solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/kartik12121/leetcode_solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
