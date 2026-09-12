@@ -24,6 +24,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kartik12121/leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/kartik12121/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartik12121/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/kartik12121/leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/kartik12121/leetcode_solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kartik12121/leetcode_solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kartik12121/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -149,6 +150,7 @@
 | [1200-minimum-absolute-difference](https://github.com/kartik12121/leetcode_solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/kartik12121/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartik12121/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/kartik12121/leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kartik12121/leetcode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/kartik12121/leetcode_solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kartik12121/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -217,6 +219,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/kartik12121/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kartik12121/leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kartik12121/leetcode_solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/kartik12121/leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kartik12121/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/kartik12121/leetcode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kartik12121/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
