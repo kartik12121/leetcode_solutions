@@ -31,6 +31,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kartik12121/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/kartik12121/leetcode_solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/kartik12121/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/kartik12121/leetcode_solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/kartik12121/leetcode_solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartik12121/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kartik12121/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -170,6 +171,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kartik12121/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/kartik12121/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kartik12121/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/kartik12121/leetcode_solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kartik12121/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/kartik12121/leetcode_solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartik12121/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -224,6 +226,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/kartik12121/leetcode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kartik12121/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/kartik12121/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/kartik12121/leetcode_solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [3467-transform-array-by-parity](https://github.com/kartik12121/leetcode_solutions/tree/master/3467-transform-array-by-parity) |
 ## Greedy
 |  |
@@ -303,6 +306,7 @@
 | [0389-find-the-difference](https://github.com/kartik12121/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kartik12121/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/kartik12121/leetcode_solutions/tree/master/1720-decode-xored-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/kartik12121/leetcode_solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/kartik12121/leetcode_solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kartik12121/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Stack
