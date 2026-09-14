@@ -281,6 +281,7 @@
 | [0342-power-of-four](https://github.com/kartik12121/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/kartik12121/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/kartik12121/leetcode_solutions/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kartik12121/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/kartik12121/leetcode_solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/kartik12121/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -506,4 +507,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kartik12121/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/kartik12121/leetcode_solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
