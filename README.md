@@ -284,6 +284,7 @@
 | [0509-fibonacci-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/kartik12121/leetcode_solutions/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kartik12121/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kartik12121/leetcode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/kartik12121/leetcode_solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/kartik12121/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartik12121/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -309,6 +310,7 @@
 | [0342-power-of-four](https://github.com/kartik12121/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/kartik12121/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/kartik12121/leetcode_solutions/tree/master/0461-hamming-distance) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kartik12121/leetcode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kartik12121/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/kartik12121/leetcode_solutions/tree/master/1720-decode-xored-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/kartik12121/leetcode_solutions/tree/master/2206-divide-array-into-equal-pairs) |
