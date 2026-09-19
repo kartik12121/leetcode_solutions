@@ -314,6 +314,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/kartik12121/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/kartik12121/leetcode_solutions/tree/master/1720-decode-xored-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/kartik12121/leetcode_solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/kartik12121/leetcode_solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/kartik12121/leetcode_solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kartik12121/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Stack
