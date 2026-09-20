@@ -143,6 +143,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kartik12121/leetcode_solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/kartik12121/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/kartik12121/leetcode_solutions/tree/master/0682-baseball-game) |
+| [0746-min-cost-climbing-stairs](https://github.com/kartik12121/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/kartik12121/leetcode_solutions/tree/master/0804-unique-morse-code-words) |
 | [0867-transpose-matrix](https://github.com/kartik12121/leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/kartik12121/leetcode_solutions/tree/master/0896-monotonic-array) |
@@ -455,6 +456,7 @@
 | [0119-pascals-triangle-ii](https://github.com/kartik12121/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/kartik12121/leetcode_solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/kartik12121/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Design
 |  |
 | ------- |
