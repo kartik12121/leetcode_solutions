@@ -96,6 +96,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kartik12121/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/kartik12121/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/kartik12121/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2833-furthest-point-from-origin](https://github.com/kartik12121/leetcode_solutions/tree/master/2833-furthest-point-from-origin) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kartik12121/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/kartik12121/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3798-largest-even-number](https://github.com/kartik12121/leetcode_solutions/tree/master/3798-largest-even-number) |
@@ -228,6 +229,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kartik12121/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/kartik12121/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/kartik12121/leetcode_solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2833-furthest-point-from-origin](https://github.com/kartik12121/leetcode_solutions/tree/master/2833-furthest-point-from-origin) |
 | [3467-transform-array-by-parity](https://github.com/kartik12121/leetcode_solutions/tree/master/3467-transform-array-by-parity) |
 ## Greedy
 |  |
