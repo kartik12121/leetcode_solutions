@@ -529,4 +529,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/kartik12121/leetcode_solutions/tree/master/0836-rectangle-overlap) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/kartik12121/leetcode_solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
