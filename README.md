@@ -533,5 +533,6 @@
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/kartik12121/leetcode_solutions/tree/master/0182-duplicate-emails) |
+| [0196-delete-duplicate-emails](https://github.com/kartik12121/leetcode_solutions/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/kartik12121/leetcode_solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
