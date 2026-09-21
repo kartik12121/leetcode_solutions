@@ -376,6 +376,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/kartik12121/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kartik12121/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/kartik12121/leetcode_solutions/tree/master/0257-binary-tree-paths) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/kartik12121/leetcode_solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/kartik12121/leetcode_solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/kartik12121/leetcode_solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kartik12121/leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -389,6 +390,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/kartik12121/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/kartik12121/leetcode_solutions/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/kartik12121/leetcode_solutions/tree/master/0463-island-perimeter) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/kartik12121/leetcode_solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/kartik12121/leetcode_solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/kartik12121/leetcode_solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Tree
@@ -445,6 +447,7 @@
 | [0101-symmetric-tree](https://github.com/kartik12121/leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/kartik12121/leetcode_solutions/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/kartik12121/leetcode_solutions/tree/master/0463-island-perimeter) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/kartik12121/leetcode_solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
