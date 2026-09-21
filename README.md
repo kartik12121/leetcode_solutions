@@ -127,6 +127,7 @@
 | [0118-pascals-triangle](https://github.com/kartik12121/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kartik12121/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/kartik12121/leetcode_solutions/tree/master/0169-majority-element) |
+| [0228-summary-ranges](https://github.com/kartik12121/leetcode_solutions/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kartik12121/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/kartik12121/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
