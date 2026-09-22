@@ -145,6 +145,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/kartik12121/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/kartik12121/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/kartik12121/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0766-toeplitz-matrix](https://github.com/kartik12121/leetcode_solutions/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/kartik12121/leetcode_solutions/tree/master/0804-unique-morse-code-words) |
 | [0867-transpose-matrix](https://github.com/kartik12121/leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/kartik12121/leetcode_solutions/tree/master/0896-monotonic-array) |
@@ -474,6 +475,7 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/kartik12121/leetcode_solutions/tree/master/0463-island-perimeter) |
+| [0766-toeplitz-matrix](https://github.com/kartik12121/leetcode_solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/kartik12121/leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/kartik12121/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 ## String Matching
