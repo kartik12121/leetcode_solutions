@@ -67,6 +67,7 @@
 | [0771-jewels-and-stones](https://github.com/kartik12121/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/kartik12121/leetcode_solutions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/kartik12121/leetcode_solutions/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/kartik12121/leetcode_solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0917-reverse-only-letters](https://github.com/kartik12121/leetcode_solutions/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/kartik12121/leetcode_solutions/tree/master/0942-di-string-match) |
 | [1002-find-common-characters](https://github.com/kartik12121/leetcode_solutions/tree/master/1002-find-common-characters) |
@@ -147,6 +148,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/kartik12121/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/kartik12121/leetcode_solutions/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/kartik12121/leetcode_solutions/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/kartik12121/leetcode_solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0867-transpose-matrix](https://github.com/kartik12121/leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/kartik12121/leetcode_solutions/tree/master/0896-monotonic-array) |
 | [0942-di-string-match](https://github.com/kartik12121/leetcode_solutions/tree/master/0942-di-string-match) |
