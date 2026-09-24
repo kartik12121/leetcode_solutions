@@ -294,6 +294,7 @@
 | [0412-fizz-buzz](https://github.com/kartik12121/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/kartik12121/leetcode_solutions/tree/master/0836-rectangle-overlap) |
+| [1025-divisor-game](https://github.com/kartik12121/leetcode_solutions/tree/master/1025-divisor-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kartik12121/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kartik12121/leetcode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/kartik12121/leetcode_solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -467,6 +468,7 @@
 | [0338-counting-bits](https://github.com/kartik12121/leetcode_solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/kartik12121/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/kartik12121/leetcode_solutions/tree/master/1025-divisor-game) |
 ## Design
 |  |
 | ------- |
@@ -544,4 +546,16 @@
 | [0584-find-customer-referee](https://github.com/kartik12121/leetcode_solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/kartik12121/leetcode_solutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/kartik12121/leetcode_solutions/tree/master/0596-classes-with-at-least-5-students) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/kartik12121/leetcode_solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/kartik12121/leetcode_solutions/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/kartik12121/leetcode_solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
