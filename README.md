@@ -18,6 +18,7 @@
 | [0500-keyboard-row](https://github.com/kartik12121/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/kartik12121/leetcode_solutions/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kartik12121/leetcode_solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0748-shortest-completing-word](https://github.com/kartik12121/leetcode_solutions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/kartik12121/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/kartik12121/leetcode_solutions/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/kartik12121/leetcode_solutions/tree/master/1002-find-common-characters) |
@@ -65,6 +66,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kartik12121/leetcode_solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/kartik12121/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/kartik12121/leetcode_solutions/tree/master/0696-count-binary-substrings) |
+| [0748-shortest-completing-word](https://github.com/kartik12121/leetcode_solutions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/kartik12121/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/kartik12121/leetcode_solutions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/kartik12121/leetcode_solutions/tree/master/0804-unique-morse-code-words) |
@@ -148,6 +150,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/kartik12121/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/kartik12121/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/kartik12121/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0748-shortest-completing-word](https://github.com/kartik12121/leetcode_solutions/tree/master/0748-shortest-completing-word) |
 | [0766-toeplitz-matrix](https://github.com/kartik12121/leetcode_solutions/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/kartik12121/leetcode_solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/kartik12121/leetcode_solutions/tree/master/0806-number-of-lines-to-write-string) |
