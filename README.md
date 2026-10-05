@@ -71,6 +71,7 @@
 | [0796-rotate-string](https://github.com/kartik12121/leetcode_solutions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/kartik12121/leetcode_solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/kartik12121/leetcode_solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [0824-goat-latin](https://github.com/kartik12121/leetcode_solutions/tree/master/0824-goat-latin) |
 | [0917-reverse-only-letters](https://github.com/kartik12121/leetcode_solutions/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/kartik12121/leetcode_solutions/tree/master/0942-di-string-match) |
 | [1002-find-common-characters](https://github.com/kartik12121/leetcode_solutions/tree/master/1002-find-common-characters) |
