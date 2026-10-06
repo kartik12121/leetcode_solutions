@@ -305,6 +305,7 @@
 | [0728-self-dividing-numbers](https://github.com/kartik12121/leetcode_solutions/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/kartik12121/leetcode_solutions/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/kartik12121/leetcode_solutions/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/kartik12121/leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kartik12121/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kartik12121/leetcode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/kartik12121/leetcode_solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -482,6 +483,7 @@
 | [0509-fibonacci-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/kartik12121/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/kartik12121/leetcode_solutions/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/kartik12121/leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -543,6 +545,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/kartik12121/leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
