@@ -306,6 +306,7 @@
 | [0412-fizz-buzz](https://github.com/kartik12121/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/kartik12121/leetcode_solutions/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kartik12121/leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/kartik12121/leetcode_solutions/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/kartik12121/leetcode_solutions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/kartik12121/leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -338,6 +339,7 @@
 | [0342-power-of-four](https://github.com/kartik12121/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/kartik12121/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/kartik12121/leetcode_solutions/tree/master/0461-hamming-distance) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kartik12121/leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kartik12121/leetcode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kartik12121/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/kartik12121/leetcode_solutions/tree/master/1720-decode-xored-array) |
@@ -580,4 +582,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/kartik12121/leetcode_solutions/tree/master/1025-divisor-game) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kartik12121/leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
