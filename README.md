@@ -151,6 +151,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kartik12121/leetcode_solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/kartik12121/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/kartik12121/leetcode_solutions/tree/master/0682-baseball-game) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/kartik12121/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/kartik12121/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-shortest-completing-word](https://github.com/kartik12121/leetcode_solutions/tree/master/0748-shortest-completing-word) |
 | [0766-toeplitz-matrix](https://github.com/kartik12121/leetcode_solutions/tree/master/0766-toeplitz-matrix) |
@@ -328,6 +329,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/kartik12121/leetcode_solutions/tree/master/0367-valid-perfect-square) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/kartik12121/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kartik12121/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
