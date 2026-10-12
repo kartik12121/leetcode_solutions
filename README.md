@@ -104,6 +104,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/kartik12121/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/kartik12121/leetcode_solutions/tree/master/2833-furthest-point-from-origin) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kartik12121/leetcode_solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kartik12121/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/kartik12121/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3798-largest-even-number](https://github.com/kartik12121/leetcode_solutions/tree/master/3798-largest-even-number) |
@@ -195,6 +196,7 @@
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kartik12121/leetcode_solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/kartik12121/leetcode_solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartik12121/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3151-special-array-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3151-special-array-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/kartik12121/leetcode_solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -518,6 +520,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartik12121/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/kartik12121/leetcode_solutions/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/kartik12121/leetcode_solutions/tree/master/1408-string-matching-in-an-array) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -554,6 +557,7 @@
 |  |
 | ------- |
 | [2932-maximum-strong-pair-xor-i](https://github.com/kartik12121/leetcode_solutions/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Memoization
 |  |
 | ------- |
@@ -593,4 +597,12 @@
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kartik12121/leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Rolling Hash
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
