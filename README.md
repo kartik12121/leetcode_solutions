@@ -265,6 +265,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/kartik12121/leetcode_solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/kartik12121/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kartik12121/leetcode_solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/kartik12121/leetcode_solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kartik12121/leetcode_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Union-Find
 |  |
@@ -328,6 +329,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/kartik12121/leetcode_solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kartik12121/leetcode_solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/kartik12121/leetcode_solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/kartik12121/leetcode_solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/kartik12121/leetcode_solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
