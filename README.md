@@ -33,6 +33,7 @@
 | [1935-maximum-number-of-words-you-can-type](https://github.com/kartik12121/leetcode_solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/kartik12121/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/kartik12121/leetcode_solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kartik12121/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/kartik12121/leetcode_solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartik12121/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kartik12121/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -195,6 +196,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/kartik12121/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kartik12121/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kartik12121/leetcode_solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kartik12121/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/kartik12121/leetcode_solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kartik12121/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -613,4 +615,12 @@
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/kartik12121/leetcode_solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kartik12121/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kartik12121/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
