@@ -60,6 +60,7 @@
 | [0392-is-subsequence](https://github.com/kartik12121/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/kartik12121/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/kartik12121/leetcode_solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/kartik12121/leetcode_solutions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/kartik12121/leetcode_solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/kartik12121/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/kartik12121/leetcode_solutions/tree/master/0520-detect-capital) |
@@ -322,6 +323,7 @@
 | [0342-power-of-four](https://github.com/kartik12121/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/kartik12121/leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/kartik12121/leetcode_solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/kartik12121/leetcode_solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/kartik12121/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/kartik12121/leetcode_solutions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kartik12121/leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -388,6 +390,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/kartik12121/leetcode_solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/kartik12121/leetcode_solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/kartik12121/leetcode_solutions/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/kartik12121/leetcode_solutions/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/kartik12121/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/kartik12121/leetcode_solutions/tree/master/0867-transpose-matrix) |
