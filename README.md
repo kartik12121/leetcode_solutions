@@ -126,6 +126,7 @@
 | [0506-relative-ranks](https://github.com/kartik12121/leetcode_solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/kartik12121/leetcode_solutions/tree/master/0561-array-partition) |
 | [0922-sort-array-by-parity-ii](https://github.com/kartik12121/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/kartik12121/leetcode_solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/kartik12121/leetcode_solutions/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartik12121/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kartik12121/leetcode_solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -169,6 +170,7 @@
 | [0896-monotonic-array](https://github.com/kartik12121/leetcode_solutions/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/kartik12121/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/kartik12121/leetcode_solutions/tree/master/0942-di-string-match) |
+| [0976-largest-perimeter-triangle](https://github.com/kartik12121/leetcode_solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1002-find-common-characters](https://github.com/kartik12121/leetcode_solutions/tree/master/1002-find-common-characters) |
 | [1089-duplicate-zeros](https://github.com/kartik12121/leetcode_solutions/tree/master/1089-duplicate-zeros) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kartik12121/leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -270,6 +272,7 @@
 | [0561-array-partition](https://github.com/kartik12121/leetcode_solutions/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/kartik12121/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/kartik12121/leetcode_solutions/tree/master/0942-di-string-match) |
+| [0976-largest-perimeter-triangle](https://github.com/kartik12121/leetcode_solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kartik12121/leetcode_solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/kartik12121/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kartik12121/leetcode_solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -328,6 +331,7 @@
 | [0728-self-dividing-numbers](https://github.com/kartik12121/leetcode_solutions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kartik12121/leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/kartik12121/leetcode_solutions/tree/master/0836-rectangle-overlap) |
+| [0976-largest-perimeter-triangle](https://github.com/kartik12121/leetcode_solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/kartik12121/leetcode_solutions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/kartik12121/leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kartik12121/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -632,4 +636,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kartik12121/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/kartik12121/leetcode_solutions/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/kartik12121/leetcode_solutions/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
