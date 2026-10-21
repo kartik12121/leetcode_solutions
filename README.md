@@ -190,6 +190,7 @@
 | [1672-richest-customer-wealth](https://github.com/kartik12121/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kartik12121/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/kartik12121/leetcode_solutions/tree/master/1720-decode-xored-array) |
+| [1732-find-the-highest-altitude](https://github.com/kartik12121/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/kartik12121/leetcode_solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/kartik12121/leetcode_solutions/tree/master/1816-truncate-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kartik12121/leetcode_solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -533,6 +534,7 @@
 | [0303-range-sum-query-immutable](https://github.com/kartik12121/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/kartik12121/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kartik12121/leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/kartik12121/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 ## Matrix
 |  |
 | ------- |
